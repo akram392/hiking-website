@@ -1,0 +1,386 @@
+/*Mini device -- Galaxy fold and mini phone */
+@media (min-width: 279px) and (max-width: 319px){
+	/*Code Start*/
+.navbar-nav {
+    margin: 20px 0px 0px;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner-section {
+    width: 100%;
+    padding: 80px 0px;
+}
+.banner-inner {
+	margin: 10px 0px 0px;
+}
+.banner-inner h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.banner-inner h6 {
+    font-size: 19px;
+    line-height: 29px;
+}
+.banner-inner .btn-primary {
+    font-size: 12px;
+}
+.banner-inner p {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.title h2 {
+    font-size: 42px;
+    line-height: 52px;
+}
+.title h3 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.title p {
+    font-size: 10px;
+    line-height: 20px;
+}
+.feature {
+    width: 100%;
+    padding: 40px 0px;
+}
+.feature .card-body h6 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.feature .card-body p {
+    font-size: 10px;
+}
+.feature .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
+.detail .title h3 {
+    margin: 70px 0px 15px;
+}
+.detail .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 10px 0px 15px;
+}
+
+.details .title h3 {
+    margin: 60px 0px 15px;
+}
+.details .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 10px 0px 15px;
+}
+
+.mountain .title h3 {
+    margin: 30px 0px 20px;
+}
+
+.explore {
+    width: 100%;
+    padding: 120px 0px;
+}
+.explore .title {
+	margin: 10px 0px 0px;
+}
+.explore .title h2 span {
+    font-size: 12px;
+    margin: 0px 0px 0px 16px;
+}
+.explore .title h2 {
+    font-size: 12px;
+    line-height: 28px;
+    margin: 0px 0px 0px 175px;
+}
+
+.contact {
+    width: 100%;
+    padding: 130px 0px;
+}
+.contact .title h2 {
+    font-size: 36px;
+    line-height: 46px;
+    margin: 0px 0px 20px;
+}
+
+.footer-section {
+    width: 100%;
+    padding: 120px 0px;
+}
+	/*Code End*/
+}
+
+
+/*Device -- Most of the mobile phones iphone, MI, Realme, Galaxy*/
+@media (min-width: 320px) and (max-width: 480px){
+	/*code start*/
+.navbar-nav {
+   margin: 20px 0px 0px;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner-section {
+    width: 100%;
+    padding: 80px 0px;
+}
+.banner-inner {
+	margin: 10px 0px 0px;
+}
+.banner-inner h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.banner-inner h6 {
+    font-size: 19px;
+    line-height: 29px;
+}
+.banner-inner .btn-primary {
+    font-size: 12px;
+}
+.banner-inner p {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.title h2 {
+    font-size: 42px;
+    line-height: 52px;
+}
+.title h3 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.title p {
+    font-size: 10px;
+    line-height: 20px;
+}
+.feature {
+    width: 100%;
+    padding: 40px 0px;
+}
+.feature .card-body h6 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.feature .card-body p {
+    font-size: 10px;
+}
+.feature .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
+.detail .title h3 {
+    margin: 70px 0px 15px;
+}
+.detail .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 10px 0px 15px;
+}
+
+.details .title h3 {
+    margin: 60px 0px 15px;
+}
+.details .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 10px 0px 15px;
+}
+
+.mountain .title h3 {
+    margin: 30px 0px 20px;
+}
+
+.explore {
+    width: 100%;
+    padding: 120px 0px;
+}
+.explore .title {
+	margin: 10px 0px 0px;
+}
+.explore .title h2 span {
+    font-size: 12px;
+    margin: 0px 0px 0px 16px;
+}
+.explore .title h2 {
+    font-size: 12px;
+    line-height: 28px;
+    margin: 0px 0px 0px 216px;
+}
+
+.contact {
+    width: 100%;
+    padding: 130px 0px;
+}
+.contact .title h2 {
+    font-size: 36px;
+    line-height: 46px;
+    margin: 0px 0px 20px;
+}
+
+.footer-section {
+    width: 100%;
+    padding: 120px 0px;
+}
+    /*code end*/
+
+}
+
+/*Device -- Low regulation tablet, phone*/
+@media (min-width: 481px) and (max-width: 767px){
+	/*code start*/
+.navbar-nav {
+   margin: 20px 0px 0px;
+}
+
+.funs .fun-box {
+    width: 100%;
+    margin: 0px 0px 20px;
+}
+
+.banner-section {
+    width: 100%;
+    padding: 80px 0px;
+}
+.banner-inner {
+	margin: 10px 0px 0px;
+}
+.banner-inner h1 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.banner-inner h6 {
+    font-size: 19px;
+    line-height: 29px;
+}
+.banner-inner .btn-primary {
+    font-size: 12px;
+}
+.banner-inner p {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.title h2 {
+    font-size: 42px;
+    line-height: 52px;
+}
+.title h3 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.title p {
+    font-size: 10px;
+    line-height: 20px;
+}
+.feature {
+    width: 100%;
+    padding: 40px 0px;
+}
+.feature .card-body h6 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.feature .card-body p {
+    font-size: 10px;
+}
+.feature .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
+.detail .title h3 {
+    margin: 70px 0px 15px;
+}
+.detail .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 10px 0px 15px;
+}
+
+.details .title h3 {
+    margin: 60px 0px 15px;
+}
+.details .btn-primary {
+    font-size: 12px;
+    padding: 10px 20px;
+    margin: 10px 0px 15px;
+}
+
+.mountain .title h3 {
+    margin: 30px 0px 20px;
+}
+
+.explore {
+    width: 100%;
+    padding: 120px 0px;
+}
+.explore .title {
+	margin: 10px 0px 0px;
+}
+.explore .title h2 span {
+    font-size: 12px;
+    margin: 0px 0px 0px 16px;
+}
+.explore .title h2 {
+    font-size: 12px;
+    line-height: 28px;
+    margin: 0px 0px 0px 300px;
+}
+
+.contact {
+    width: 100%;
+    padding: 130px 0px;
+}
+.contact .title h2 {
+    font-size: 36px;
+    line-height: 46px;
+    margin: 0px 0px 20px;
+}
+
+.footer-section {
+    width: 100%;
+    padding: 120px 0px;
+}
+    /*code end*/
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+	/*code start*/
+.navbar-nav {
+   margin: 30px 0px 0px;
+}
+
+.mountain .title h3 {
+    margin: 40px 0px 20px;
+}
+.explore .title h2 {
+    margin: 0px 0px 0px 200px;
+}
+.explore .title {
+	margin: 80px 0px 0px;
+}
+.footer-section h6 {
+	margin: 120px 0px 10px;
+}
+
+.title h2 {
+    font-size: 36px;
+    line-height: 46px;
+}
+
+   /*code end*/
+}
